@@ -6,10 +6,10 @@
 carpentry: "swc"
 
 # Overall title for pages.
-title: "Workshop Title"
+title: "Stanford Software Carpentry Workshop July 2018"
 
 # Contact email address.
-email: lessons@software-carpentry.org
+email: rmoran@stanford.edu
 
 #------------------------------------------------------------
 # Generic settings (should not need to change).
